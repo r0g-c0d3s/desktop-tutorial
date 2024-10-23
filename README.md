@@ -1,7 +1,7 @@
-# Welcome to GitHub Desktop!
+# Welcome to READMEs!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is your README. READMEs are READMEs where you can communicate with READMEs on what your READMEs are and how to READ it.
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
 
-![image](https://github.com/user-attachments/assets/06885b52-894d-4787-a713-b0bf2a5705e5)
+![crying-about-it-crying](https://github.com/user-attachments/assets/6320486c-f35f-4f1c-80db-1bdee243111c)
